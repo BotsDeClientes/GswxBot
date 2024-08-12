@@ -14,7 +14,7 @@ global.redesMenu = [canal1, canal2, canal3, canal4, soporteGB, grupo1, grupo2, g
 global.accountsgb = [canal1, canal2, canal3, canal4, tk, ig, yt, paypal, fb, ths, md, asistencia].getRandom()
 
 global.canalIdGB = ["120363302593776856@newsletter", "120363302593776856@newsletter", "120363302593776856@newsletter", "120363302593776856@newsletter"]
-global.canalNombreGB = ["𝘝𝘦𝘯𝘵𝘢𝘴 𝘗𝘦𝘳𝘦𝘻 🛍️", "𝘝𝘦𝘯𝘵𝘢𝘴 𝘗𝘦𝘳𝘦𝘻 🛍️", "@𝘠𝘢𝘭𝘭𝘪𝘤𝘰.𝘖𝘸𝘯𝘦𝘳 🛍️", "@𝘠𝘢𝘭𝘭𝘪𝘤𝘰.𝘖𝘸𝘯𝘦𝘳 🛍️"]
+global.canalNombreGB = ["𝘎𝘴𝘸𝘹 𝘉𝘰𝘵 🥷🏼", "𝘎𝘴𝘸𝘹 𝘉𝘰𝘵 🥷🏼", "@𝘠𝘢𝘭𝘭𝘪𝘤𝘰.𝘖𝘸𝘯𝘦𝘳 🥷🏼", "@𝘠𝘢𝘭𝘭𝘪𝘤𝘰.𝘖𝘸𝘯𝘦𝘳 🥷🏼"]
 global.channelRD = await getRandomChannel()
 
 // Imágenes 
@@ -76,8 +76,8 @@ const estiloaudio = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ..
 let ftroli = { key: { remoteJid: 'status@broadcast', participant: '0@s.whatsapp.net' }, message: { orderMessage: { itemCount: 99, status: 1, surface: 1, message: wm, orderTitle: wm, sellerJid: '0@s.whatsapp.net' } } }
 let fgif = {key: {participant : '0@s.whatsapp.net'}, message: {"videoMessage": { "title": wm, "h": `Hmm`, 'seconds': '999999999', 'gifPlayback': 'true', 'caption': bottime, 'jpegThumbnail': fs.readFileSync('./media/menus/Menu3.jpg')}}}
                              
-let enlace = { contextInfo: { externalAdReply: {title: wm + '⚡', body: '𝘠𝘢𝘭𝘭𝘪𝘤𝘰.𝘖𝘸𝘯𝘦𝘳 🛍️' , sourceUrl: redesMenu, thumbnail: await(await fetch(gataMenu)).buffer() }}}
-let enlace2 = { contextInfo: { externalAdReply: { showAdAttribution: true, mediaUrl: yt, mediaType: 'VIDEO', description: '', title: wm, body: '𝘝𝘦𝘯𝘵𝘢𝘴 𝘗𝘦𝘳𝘦𝘻 / @𝘠𝘢𝘭𝘭𝘪𝘤𝘰.𝘖𝘸𝘯𝘦𝘳 🛍️', thumbnailUrl: gataMenu, sourceUrl: accountsgb }}}
+let enlace = { contextInfo: { externalAdReply: {title: wm + '⚡', body: '𝘠𝘢𝘭𝘭𝘪𝘤𝘰.𝘖𝘸𝘯𝘦𝘳 🥷🏼' , sourceUrl: redesMenu, thumbnail: await(await fetch(gataMenu)).buffer() }}}
+let enlace2 = { contextInfo: { externalAdReply: { showAdAttribution: true, mediaUrl: yt, mediaType: 'VIDEO', description: '', title: wm, body: '𝘝𝘦𝘯𝘵𝘢𝘴 𝘗𝘦𝘳𝘦𝘻 / @𝘠𝘢𝘭𝘭𝘪𝘤𝘰.𝘖𝘸𝘯𝘦𝘳 🥷🏼', thumbnailUrl: gataMenu, sourceUrl: accountsgb }}}
 let dos = [enlace, enlace2]  
 
 global.wait = "⌛ *`Cargando...`*\n*✪✦✦⊹⊹⊹⊹⊹⊹⊹⊹✪* `20%`"
