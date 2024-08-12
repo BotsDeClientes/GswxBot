@@ -32,31 +32,31 @@ global.imagen11 = fs.readFileSync("./media/menus/img10.jpg")
 global.imagen12 = fs.readFileSync("./media/menus/img11.jpg")
 global.imagen13 = fs.readFileSync("./media/menus/img12.jpg")
 
-global.img = 'https://qu.ax/nsVx.jpg'
-global.img2 = 'https://qu.ax/nsVx.jpg'
+global.img = 'https://qu.ax/kgWH.png'
+global.img2 = 'https://qu.ax/kgWH.png'
 
-global.img3 = 'https://qu.ax/nsVx.jpg' //prem
-global.img4 = 'https://qu.ax/nsVx.jpg' //prem
+global.img3 = 'https://qu.ax/kgWH.png' //prem
+global.img4 = 'https://qu.ax/kgWH.png' //prem
 
-global.img5 = 'https://qu.ax/nsVx.jpg'
-global.img6 = 'https://qu.ax/nsVx.jpg'
-global.img7 = 'https://qu.ax/nsVx.jpg'
-global.img8 = 'https://qu.ax/nsVx.jpg'
-global.img9 = 'https://qu.ax/nsVx.jpg'
+global.img5 = 'https://qu.ax/kgWH.png'
+global.img6 = 'https://qu.ax/kgWH.png'
+global.img7 = 'https://qu.ax/kgWH.png'
+global.img8 = 'https://qu.ax/kgWH.png'
+global.img9 = 'https://qu.ax/kgWH.png'
 
-global.img10 = 'https://qu.ax/nsVx.jpg'
-global.img11 = 'https://qu.ax/nsVx.jpg'
-global.img12 = 'https://qu.ax/nsVx.jpg'
-global.img13 = 'https://qu.ax/nsVx.jpg'
-global.img14 = 'https://qu.ax/nsVx.jpg'
-global.img15 = 'https://qu.ax/nsVx.jpg' 
+global.img10 = 'https://qu.ax/kgWH.png'
+global.img11 = 'https://qu.ax/kgWH.png'
+global.img12 = 'https://qu.ax/kgWH.png'
+global.img13 = 'https://qu.ax/kgWH.png'
+global.img14 = 'https://qu.ax/kgWH.png'
+global.img15 = 'https://qu.ax/kgWH.png' 
 
-global.img16 = 'https://qu.ax/nsVx.jpg' //+18
+global.img16 = 'https://qu.ax/kgWH.png' //+18
 
-global.img17 = 'https://qu.ax/nsVx.jpg'
-global.img18 = 'https://qu.ax/nsVx.jpg'
+global.img17 = 'https://qu.ax/kgWH.png'
+global.img18 = 'https://qu.ax/kgWH.png'
 
-global.logogit = 'https://qu.ax/nsVx.jpgi'
+global.logogit = 'https://qu.ax/kgWH.png'
 
 global.gataVidMenu = ['https://qu.ax/LASi.mp4', 'https://qu.ax/LASi.mp4', 'https://qu.ax/LASi.mp4'].getRandom()
 global.gataMenu = [img, img2, img6, img7, img8, img9, img13, img14, img15, img17, img18].getRandom()
